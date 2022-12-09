@@ -24,10 +24,10 @@
 </div>
 ---
 
-# YUKI BOT Whatsapp MD
+# ScrLxrd BOT Whatsapp MD
 ## For Users Termux Install Module [here](https://github.com/Ilhamskhyzi/node_modules)
 ## Information
-> YUKI BOT whatsapp using a Baileys library.
+> ScrLxrd BOT whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 > • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus:v, 
